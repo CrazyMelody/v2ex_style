@@ -65,7 +65,7 @@ form+div>.fr {
 }
 
 /* 悬浮显示回复时间 */
-.cell:hover .ago {
+.cell:hover .ago,.cell:hover .fr {
     display: inline;
 }
 
