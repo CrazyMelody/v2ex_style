@@ -1,6 +1,8 @@
 # v2ex_style
 V2EX自用美化css
 
+v2ex导航：https://www.v2ex.com/t/851399
+
 学习CSS顺便拿V站练练手。
 
 全部基于V2自身的css调整，理论上支持大部分插件，最后两张图是使用了插件后的效果。
